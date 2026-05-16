@@ -1,5 +1,5 @@
 # Hi, I'm Marwan Youssef 👋
-### Senior Software Engineer & Offensive Security Researcher
+###  Software Engineer & Offensive Security Researcher
 
 I design distributed systems optimized for extreme concurrency and zero-fault data integrity, while simultaneously auditing infrastructure from a Red Teamer's perspective. 
 
